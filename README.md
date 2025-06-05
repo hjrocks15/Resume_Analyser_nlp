@@ -9,4 +9,4 @@ The NLP Resume Analyzer uses natural language processing to extract and analyze 
 - Streamlit web UI for easy interaction
 
 
-![Resume_Analyser_nlp](Screenshot (353).png)
+![Resume_Analyser_nlp](Screenshot%20(353).png)
