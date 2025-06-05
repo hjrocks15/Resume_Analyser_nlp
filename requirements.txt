@@ -1,0 +1,9 @@
+
+Important libraries that needs to be installed before implementation
+
+streamlit
+scikit-learn
+spacy
+PyPDF2
+numpy
+pandas
